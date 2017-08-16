@@ -1,2 +1,2 @@
 # expansion-delfino
-Tarjeta de expansión para la tarjeta de evaluación LAUNCHXL-F28377S
+Tarjeta de expansión para el launchpad LAUNCHXL-F28377S
