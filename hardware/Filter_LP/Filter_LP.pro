@@ -1,4 +1,4 @@
-update=jue 17 ago 2017 15:29:40 CDT
+update=lun 21 ago 2017 17:52:38 CDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -56,5 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-[general]
-version=1
+LibName30=/home/luis/Documentos/Libs_Kicad/My_Connectors/My_Audio_Conn

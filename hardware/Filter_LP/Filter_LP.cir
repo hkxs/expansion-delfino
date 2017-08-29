@@ -1,0 +1,23 @@
+* /home/luis/Documentos/PCBs/Filter_LP/Filter_LP.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: lun 28 ago 2017 14:29:52 CDT
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+XU1  2 2 4 9 1 TL082		
+C1  5 6 220nF		
+R1  5 9 1.2M		
+J1  9 6 1 CONN_01X03		
+R2  3 5 5.1K		
+R5  4 3 10K		
+C4  2 3 2.2nF		
+C3  4 9 1nF		
+J2  9 ? ? 10 10 JACK_PJ324		
+C5  2 10 CP		
+R3  1 4 10K		
+R4  4 9 10K		
+C2  4 9 CP		
+
+.end
