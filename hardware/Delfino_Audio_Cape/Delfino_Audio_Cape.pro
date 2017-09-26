@@ -1,4 +1,4 @@
-update=mié 13 sep 2017 16:50:31 CDT
+update=lun 25 sep 2017 13:34:25 CDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../../Libs_Kicad
+LibDir=../../../Libs_Kicad
 [eeschema/libraries]
 LibName1=Delfino_Audio_Cape-rescue
 LibName2=power
