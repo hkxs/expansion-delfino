@@ -3,7 +3,7 @@
   (general
     (links 216)
     (no_connects 0)
-    (area 115.748999 60.884999 259.663001 223.595001)
+    (area 111.589943 42.766 277.903715 223.595001)
     (thickness 1.6)
     (drawings 67)
     (tracks 351)
@@ -13,6 +13,14 @@
   )
 
   (page A3)
+  (title_block
+    (title "Tarjeta de expansión para el launchpad LAUNCHXL-F28377S")
+    (date 2017-09-26)
+    (rev V2)
+    (company "LabDSP, UNAM")
+    (comment 4 PCB)
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
@@ -37,7 +45,7 @@
   )
 
   (setup
-    (last_trace_width 2.032)
+    (last_trace_width 0.889)
     (user_trace_width 0.508)
     (user_trace_width 0.889)
     (user_trace_width 1.27)

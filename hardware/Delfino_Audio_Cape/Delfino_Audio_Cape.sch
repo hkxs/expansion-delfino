@@ -39,14 +39,14 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 6
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "Tarjeta de expansión para el launchpad LAUNCHXL-F28377S"
+Date "2017-09-26"
+Rev "V2"
+Comp "LabDSP, UNAM"
 Comment1 ""
 Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment3 "incluye entradas digitales y salidas  PWM"
+Comment4 "Segunda versión de la tarjeta de expansión"
 $EndDescr
 $Sheet
 S 1900 2430 1170 490 
