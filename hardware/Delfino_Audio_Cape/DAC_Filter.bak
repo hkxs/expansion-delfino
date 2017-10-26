@@ -40,13 +40,13 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 4 6
 Title "Tarjeta de expansión para el launchpad LAUNCHXL-F28377S"
-Date ""
+Date "2017-09-26"
 Rev "V2"
 Comp "LabDSP, UNAM"
 Comment1 ""
 Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment3 "la frecuencia de corte esta en aprox. 20KHz"
+Comment4 "Filtro paso bajas para el DAC"
 $EndDescr
 $Comp
 L TL082 U4
