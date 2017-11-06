@@ -646,7 +646,7 @@ F 1 "10uF" H 2095 5000 50  0000 L CNN
 F 2 "Capacitors_THT:CP_Radial_D6.3mm_P2.50mm" H 2108 4950 50  0001 C CNN
 F 3 "" H 2070 5100 50  0001 C CNN
 	1    2070 5100
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L GND #PWR018
@@ -744,7 +744,7 @@ F 1 "10uF" H 3975 5000 50  0000 L CNN
 F 2 "Capacitors_THT:CP_Radial_D6.3mm_P2.50mm" H 3988 4950 50  0001 C CNN
 F 3 "" H 3950 5100 50  0001 C CNN
 	1    3950 5100
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L GND #PWR022

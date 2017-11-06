@@ -1657,7 +1657,7 @@ U 1 1 59CAA393
 P 5530 1850
 F 0 "J1-J1" H 5580 2350 50  0000 C CNN
 F 1 "Conn_02x10_Odd_Even" H 5580 1250 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x10_Pitch2.00mm" H 5530 1850 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x10_Pitch2.54mm" H 5530 1850 50  0001 C CNN
 F 3 "" H 5530 1850 50  0001 C CNN
 	1    5530 1850
 	1    0    0    -1  
@@ -1668,7 +1668,7 @@ U 1 1 59CABA15
 P 7080 1850
 F 0 "J1-J3" H 7130 2350 50  0000 C CNN
 F 1 "Conn_02x10_Odd_Even" H 7130 1250 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x10_Pitch2.00mm" H 7080 1850 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x10_Pitch2.54mm" H 7080 1850 50  0001 C CNN
 F 3 "" H 7080 1850 50  0001 C CNN
 	1    7080 1850
 	1    0    0    -1  
@@ -1679,7 +1679,7 @@ U 1 1 59CABB77
 P 5530 3320
 F 0 "J1-J2" H 5580 3820 50  0000 C CNN
 F 1 "Conn_02x10_Odd_Even" H 5580 2720 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x10_Pitch2.00mm" H 5530 3320 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x10_Pitch2.54mm" H 5530 3320 50  0001 C CNN
 F 3 "" H 5530 3320 50  0001 C CNN
 	1    5530 3320
 	1    0    0    -1  
@@ -1690,7 +1690,7 @@ U 1 1 59CABCE0
 P 7080 3320
 F 0 "J1-J4" H 7130 3820 50  0000 C CNN
 F 1 "Conn_02x10_Odd_Even" H 7130 2720 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x10_Pitch2.00mm" H 7080 3320 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x10_Pitch2.54mm" H 7080 3320 50  0001 C CNN
 F 3 "" H 7080 3320 50  0001 C CNN
 	1    7080 3320
 	1    0    0    -1  
